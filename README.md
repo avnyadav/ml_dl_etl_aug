@@ -42,3 +42,8 @@ To start stop container
 ```
 docker start container_name
 ```
+
+```
+airflow user: admin
+airflow pass: airflow
+```
