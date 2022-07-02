@@ -5,6 +5,7 @@ airflow/*.py
 airflow/*.cfg
 airflow/*.db-*
 data
+venv/*
 notebook/metastore_db
 notebook/*.log
 notebook/.ipynb*
