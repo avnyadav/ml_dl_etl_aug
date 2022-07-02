@@ -1,4 +1,9 @@
-airflow
+airflow/logs
+airflow/*.pid
+airflow/*.db
+airflow/*.py
+airflow/*.cfg
+airflow/*.db-*
 data
 notebook/metastore_db
 notebook/*.log
